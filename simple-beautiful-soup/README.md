@@ -24,7 +24,7 @@ Nota: lxml es mucho más rápido, sin embargo, html.parser sigue siendo una buen
 
 Además de ser un excelente analizador de HTML, Beautifulsoup también incluye una gran cantidad de funciones de ayuda y utilidades relacionadas con HTML. 
 
-### Extraer todo el texto
+### Extraer todo el texto
 
 A menudo, las estructuras de texto complejas se representan a través de múltiples nodos HTML que pueden ser difíciles de extraer. Para esto, bs4 implementa un método llamado get_text().
 
